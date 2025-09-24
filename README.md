@@ -1,4 +1,5 @@
 ## Hi there! I'm Anuf Joestar 👋
+<img width="1532" height="416" alt="github-header-banner" src="https://github.com/user-attachments/assets/dc747403-e989-4f9d-9246-3e760987c3e5" />
 
 <!--
 **Nanashyi/Nanashyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +16,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🌱 I’m currently learning ...
-<img width="640" height="360" alt="image" src="https://github.com/user-attachments/assets/fca4b1f9-e0b1-4e05-a638-b2d6c951f60e" />
+  
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXVwaXR3cW9qc3lzbnR1dnJpMnM1d3BhYWMyeW1jbHFnd2kzZzZnayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NKEt9elQ5cR68/giphy.gif)
