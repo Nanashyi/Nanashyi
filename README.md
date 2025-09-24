@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /><img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" /><img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" /><img src="https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black" />
 
-[![Nanashyi GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuragha&show_icons=true&theme=cobalt#gh-dark-mode-only)]
+[![Nanashyi GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Nanashyi&show_icons=true&theme=cobalt#gh-dark-mode-only)]
